@@ -1,2 +1,3 @@
-# HTTP-Server-C-
-HTTP Server from Scratch / C++
+# TCP-SERVER-CLIENT-CPP
+
+TCP Server-Client from Scratch / C++. Socket programming
